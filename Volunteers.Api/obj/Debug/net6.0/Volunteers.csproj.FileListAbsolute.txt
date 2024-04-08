@@ -1,0 +1,59 @@
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\Volunteers.csproj.AssemblyReference.cache
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\Volunteers.GeneratedMSBuildEditorConfig.editorconfig
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\Volunteers.AssemblyInfoInputs.cache
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\Volunteers.AssemblyInfo.cs
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\Volunteers.csproj.CoreCompileInputs.cache
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\Volunteers.MvcApplicationPartsAssemblyInfo.cs
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\Volunteers.MvcApplicationPartsAssemblyInfo.cache
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\bin\Debug\net6.0\appsettings.json
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\bin\Debug\net6.0\Volunteers.exe
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\bin\Debug\net6.0\Volunteers.deps.json
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\bin\Debug\net6.0\Volunteers.runtimeconfig.json
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\bin\Debug\net6.0\Volunteers.dll
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\bin\Debug\net6.0\Volunteers.pdb
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\staticwebassets\msbuild.Volunteers.Microsoft.AspNetCore.StaticWebAssets.props
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Volunteers.props
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Volunteers.props
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Volunteers.props
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\scopedcss\bundle\Volunteers.styles.css
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\Volunteers.csproj.Up2Date
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\Volunteers.dll
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\refint\Volunteers.dll
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\Volunteers.pdb
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\Volunteers.genruntimeconfig.cache
+D:\second year 2024\ANGULAR\final_project\Volunteers.Api\obj\Debug\net6.0\ref\Volunteers.dll
+D:\angular\shuttle-placement\Volunteers.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\angular\shuttle-placement\Volunteers.Api\bin\Debug\net6.0\appsettings.json
+D:\angular\shuttle-placement\Volunteers.Api\bin\Debug\net6.0\Volunteers.exe
+D:\angular\shuttle-placement\Volunteers.Api\bin\Debug\net6.0\Volunteers.deps.json
+D:\angular\shuttle-placement\Volunteers.Api\bin\Debug\net6.0\Volunteers.runtimeconfig.json
+D:\angular\shuttle-placement\Volunteers.Api\bin\Debug\net6.0\Volunteers.dll
+D:\angular\shuttle-placement\Volunteers.Api\bin\Debug\net6.0\Volunteers.pdb
+D:\angular\shuttle-placement\Volunteers.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\angular\shuttle-placement\Volunteers.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\angular\shuttle-placement\Volunteers.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\angular\shuttle-placement\Volunteers.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\angular\shuttle-placement\Volunteers.Api\obj\Debug\net6.0\Volunteers.csproj.AssemblyReference.cache
+D:\angular\shuttle-placement\Volunteers.Api\obj\Debug\net6.0\Volunteers.GeneratedMSBuildEditorConfig.editorconfig
+D:\angular\shuttle-placement\Volunteers.Api\obj\Debug\net6.0\Volunteers.AssemblyInfoInputs.cache
+D:\angular\shuttle-placement\Volunteers.Api\obj\Debug\net6.0\Volunteers.AssemblyInfo.cs
+D:\angular\shuttle-placement\Volunteers.Api\obj\Debug\net6.0\Volunteers.csproj.CoreCompileInputs.cache
+D:\angular\shuttle-placement\Volunteers.Api\obj\Debug\net6.0\Volunteers.MvcApplicationPartsAssemblyInfo.cs
+D:\angular\shuttle-placement\Volunteers.Api\obj\Debug\net6.0\Volunteers.MvcApplicationPartsAssemblyInfo.cache
+D:\angular\shuttle-placement\Volunteers.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\angular\shuttle-placement\Volunteers.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\angular\shuttle-placement\Volunteers.Api\obj\Debug\net6.0\scopedcss\bundle\Volunteers.styles.css
+D:\angular\shuttle-placement\Volunteers.Api\obj\Debug\net6.0\Volunteers.csproj.CopyComplete
+D:\angular\shuttle-placement\Volunteers.Api\obj\Debug\net6.0\Volunteers.dll
+D:\angular\shuttle-placement\Volunteers.Api\obj\Debug\net6.0\refint\Volunteers.dll
+D:\angular\shuttle-placement\Volunteers.Api\obj\Debug\net6.0\Volunteers.pdb
+D:\angular\shuttle-placement\Volunteers.Api\obj\Debug\net6.0\Volunteers.genruntimeconfig.cache
+D:\angular\shuttle-placement\Volunteers.Api\obj\Debug\net6.0\ref\Volunteers.dll

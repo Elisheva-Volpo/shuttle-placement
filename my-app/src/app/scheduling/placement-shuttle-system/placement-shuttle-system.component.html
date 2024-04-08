@@ -1,0 +1,34 @@
+<h2>transportation scheduling </h2>
+
+<table class="table table-sm" *ngIf="flag">
+    <thead>
+        <tr>
+            <th *ngFor="let day of daysOfWeek; let i=index" scope="col-4">
+                <p>{{daysOfWeek[i]}}</p>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+
+            <td *ngFor="let day of daysOfWeek; let i=index">
+                <form [formGroup]="form">
+
+                    <select name="vday" id="dayId" formControlName="{{day}}" [value]="editShuttle[i]"
+                    [ngClass]="{ 'selected-day': editShuttle[i].id!=0}">
+                        <!-- <option value="" selected>{{editShuttle[i].name}}</option> -->
+
+                        <option *ngFor="let v of volunteersForDay(i)" [value]="v.id"
+                        [ngClass]="{ 'save-day': editShuttle[i].id==v.id}">{{v.name}} </option>
+                    </select>
+                </form>
+            </td>
+
+        </tr>
+        <tr scope="row-4">
+        </tr>
+    </tbody>
+
+
+</table>
+<button class="btn btn-primary" (click)="saveScheduling()">Save scheduling</button>

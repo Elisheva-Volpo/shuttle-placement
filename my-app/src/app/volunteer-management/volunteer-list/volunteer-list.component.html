@@ -1,0 +1,21 @@
+
+<ul>
+    <li *ngFor="let volunteer of volunteerList$"
+     class="list-group-item" 
+     style="box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;"
+     (click)="routeToEdit(volunteer.id)"
+     >
+
+        <div class="row">
+            <div class="col-3">
+                {{volunteer.name}}
+            </div>
+            <div class="col-3">
+                {{volunteer.tel}}
+            </div>
+            <div class="col-3">
+                {{volunteer.address}}
+            </div>
+        </div>
+    </li>
+</ul>

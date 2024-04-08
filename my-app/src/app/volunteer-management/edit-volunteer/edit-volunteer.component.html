@@ -1,0 +1,95 @@
+{{_volunteer|json}}
+<br>
+==============================================================================
+<br>
+{{volunteerForm.value|json}}
+
+<div class="card" *ngIf="_volunteer&&flag else noChoosen">
+    <div class="card-header">
+        volunteer: {{_volunteer.id}}
+    </div>
+    <div class="card-body">
+        <form [formGroup]="volunteerForm">
+
+            <div class="form-group">
+
+                <label for="tel">phone number:</label>
+                <input type="text" [value]="_volunteer.tel" class="form-control" formControlName="tel">
+
+                <ng-container *ngIf="volunteerForm.controls['tel'].errors&&volunteerForm.controls['tel'].touched">
+
+                    <div class="alert alert-danger" *ngIf="volunteerForm.controls['tel'].errors['required']">
+                        This field is required!!
+                    </div>
+
+                    <div class="alert alert-danger" *ngIf="volunteerForm.controls['tel'].errors['minlength']">
+                        The number is not valid!!
+                    </div>
+
+                </ng-container>
+
+            </div>
+            <div class="form-group">
+                <label for="volunteerName">name:</label>
+                <input type="text" id="name" [value]="_volunteer.name" class="form-control" name="name"
+                    formControlName="name">
+                <ng-container *ngIf="volunteerForm.controls['name'].errors&&volunteerForm.controls['name'].touched">
+
+                    <div class="alert alert-danger" *ngIf="volunteerForm.controls['name'].errors['required']">
+                        This field is required!!
+                    </div>
+
+                    <div class="alert alert-danger" *ngIf="volunteerForm.controls['name'].errors['minlength']">
+                        This field must have at least 3 chars!!
+                    </div>
+
+                </ng-container>
+            </div>
+
+            <div class="form-group">
+
+                <label for="address">address:</label>
+                <input type="text" [value]="_volunteer.address" class="form-control" formControlName="address">
+                <ng-container *ngIf="volunteerForm.controls['address'].errors&&volunteerForm.controls['address'].touched">
+
+                    <div class="alert alert-danger" *ngIf="volunteerForm.controls['address'].errors['required']">
+                        This field is required!!
+                    </div>
+
+                    <div class="alert alert-danger" *ngIf="volunteerForm.controls['address'].errors['minlength']">
+                        This field must have at least 3 chars!!
+                    </div>
+
+                </ng-container>
+
+            </div>
+
+            <div class="form-group">
+
+                <label for="isActive">active:</label>
+                <input type="checkbox" formControlName="isActive">
+
+            </div>
+            <div class="form-group">
+
+                <label for="wantArr">which days:</label>
+                Sunday<input type="checkbox" id="1" [checked]="_volunteer.wantArr[0]" formControlName="wantArrSunday">
+                Monday<input type="checkbox" id="2"  [checked]="_volunteer.wantArr[1]"formControlName="wantArrMonday">
+                Tuesday<input type="checkbox" id="3" [checked]="_volunteer.wantArr[2]" formControlName="wantArrTuesday">
+                Wednesday<input type="checkbox" id="4"  [checked]="_volunteer.wantArr[3]" formControlName="wantArrWednesday">
+                Thursday<input type="checkbox" id="5" [checked]="_volunteer.wantArr[4]" formControlName="wantArrSunday">
+                Friday<input type="checkbox" id="6" [checked]="_volunteer.wantArr[5]" formControlName="wantArrFriday">
+                mozai Shabes<input type="checkbox" id="7"  [checked]="_volunteer.wantArr[6]" formControlName="wantArrShabes">
+
+            </div>
+
+        </form>
+    </div>
+    <button class="btn btn-primary" (click)="saveChanges()">save changes</button>
+
+</div>
+
+
+<ng-template #noChoosen>
+    <div>There are not student to edit</div>
+</ng-template>
