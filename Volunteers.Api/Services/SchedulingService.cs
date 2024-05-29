@@ -11,7 +11,7 @@ public static class SchedulingService
         VolunteersService.VolunteersDB[1],
         VolunteersService.VolunteersDB[0],
         VolunteersService.VolunteersDB[3],
-        new Volunteer()};
+        VolunteersService.VolunteersDB[2]};
     public static void Update(Volunteer[] updated) => Schedule = updated;
     public static Volunteer[] Get() => Schedule;
 
